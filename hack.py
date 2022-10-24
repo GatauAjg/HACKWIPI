@@ -1,0 +1,1 @@
+print("Yahaaa,kena tipu")
